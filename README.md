@@ -24,7 +24,7 @@ No other dependencies are required if Inferno is installed.
 
 `-D` enables debug logging and tracing via styx(2).  
 
-'-u' specifies to run the server as owned by `user`. 
+`-u` specifies to run the server as owned by `user`. 
 
 ### Command format
 
@@ -34,7 +34,7 @@ Commands are written to the `/ctl` file in the fs.
 
 `/ctl`		-- command input file
 
-`/log``	-- log of commands written thus far
+`/log`	-- log of commands written thus far
 
 ## Examples
 
